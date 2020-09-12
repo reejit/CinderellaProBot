@@ -72,7 +72,7 @@ GDPR = []
 
 START_IMG = os.environ.get('START_IMG', None)
 if START_IMG is None:
-    img = "https://telegra.ph/file/511ad504656e712b88235.jpg"
+    img = "https://telegra.ph/file/9785346c5b9a86b86b184.jpg"
 else:
   img = START_IMG    
     
@@ -396,7 +396,7 @@ def get_settings(bot: Bot, update: Update):
             text = "Click here to get this chat's settings, as well as yours."
             msg.reply_text(text,
                            reply_markup=InlineKeyboardMarkup(
-                               [[InlineKeyboardButton(text="⚙️Settings⚙️",
+                               [[InlineKeyboardButton(text="⛔Settings⛔",
                                                       url="t.me/{}?start=stngs_{}".format(
                                                           bot.username, chat.id))]]))
         else:
