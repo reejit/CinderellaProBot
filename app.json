@@ -15,13 +15,13 @@
       },
       "BAN_STICKER": {
          "description": "ID of the sticker you want to use when banning people.",
-         "required": false, 
+         "required": false,
          "value": ""
       },
       "MESSAGE_DUMP": {
          "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-         "required": true,
-         "value": "-476032178"   
+         "required": false,
+         "value": ""   
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
@@ -145,7 +145,8 @@
       "cinderella"
       
    ],
-   "name": "nol",
+   "name": "Cinderell",
    "repository": "https://github.com/reejit/CinderellaProBot",
-   "success_url": "https://telegram.dog/CinderellaProBot"",
+   "success_url": "https://telegram.dog/CinderellaProBot",
+   "logo": "https://telegra.ph/file/511ad504656e712b88235.jpg"
 }
