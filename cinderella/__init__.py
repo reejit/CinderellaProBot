@@ -75,9 +75,9 @@ if ENV:
     TIME_API_KEY = os.environ.get('TIME_API_KEY', None)
     WALL_API = os.environ.get('WALL_API',None)
     LASTFM_API_KEY = os.environ.get('LASTFM_API_KEY',None)
-    LYDIA_API = os.environ.get('LYDIA_API',75b8e48192ed2d2b317ab13bd075769f57ecf6dcf3366d1f7a2b576f002b3ce9ba438f03536e90fb43bf30b430304665f7ff431ce6da2cd4eb3705b5dda41bf2)
-    API_WEATHER  = os.environ.get('API_OPENWEATHER',32ea00d70b9facacd7d25b7d2666e8cf)
-    SW_API = os.environ.get('SW_API',Mjw6VzQh9LN2FcAil_NkE_uWoBERUcVpfQiE_eC8d51rgjR_B3kUDV6VkJB1dmJ7)
+    LYDIA_API = os.environ.get('LYDIA_API',None)
+    API_WEATHER  = os.environ.get('API_OPENWEATHER',None)
+    SW_API = os.environ.get('SW_API',None)
     
 else:
     from cinderella.config import Development as Config
