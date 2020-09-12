@@ -1,7 +1,6 @@
-### @CinderellaProBot // http://www.telegram.dog/CinderellaProBot
+### @CinderellaProBot // http://www.telegram.dog/PikachuGroupHelper_Bot
 > with HunterxHunter theme.
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 Modular Telegram bot for managing your groups with a extras features with HunterxHunter theme.
@@ -17,7 +16,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 </p>
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/511ad504656e712b88235.jpg)](https://heroku.com/deploy?template=https://github.com/Sur-vivor/CinderellaProBot.git)
+[![Deploy](https://telegra.ph/file/9785346c5b9a86b86b184.jpg)](https://heroku.com/deploy?template=https://github.com/Sur-vivor/CinderellaProBot.git)
 
 ### Configuration
 
