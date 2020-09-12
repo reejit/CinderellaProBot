@@ -1,4 +1,4 @@
-{
+It{
    "addons": [
       {
          "options": {
@@ -148,5 +148,4 @@
    "name": "nol",
    "repository": "https://github.com/reejit/CinderellaProBot",
    "success_url": "https://telegram.dog/CinderellaProBot"",
-   "logo": "https://telegra.ph/file/511ad504656e712b88235.jpg"
 }
