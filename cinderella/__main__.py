@@ -72,9 +72,9 @@ GDPR = []
 
 START_IMG = os.environ.get('START_IMG', None)
 if START_IMG is None:
-    img = "https://telegra.ph/file/7497d9e7671305d08f657.jpg"
+    img = "https://telegra.ph/file/c6d02a5d4cb81918ace0b.jpg"
 else:
-  img = "https://telegra.ph/file/7497d9e7671305d08f657.jpg"
+  img = "https://telegra.ph/file/c6d02a5d4cb81918ace0b.jpg"
     
 for module_name in ALL_MODULES:
     imported_module = importlib.import_module("cinderella.modules." + module_name)
