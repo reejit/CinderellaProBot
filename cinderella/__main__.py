@@ -74,7 +74,7 @@ START_IMG = os.environ.get('START_IMG', None)
 if START_IMG is None:
     img = "https://telegra.ph/file/7497d9e7671305d08f657.jpg"
 else:
-  img = START_IMG    
+  img = "https://telegra.ph/file/7497d9e7671305d08f657.jpg"
     
 for module_name in ALL_MODULES:
     imported_module = importlib.import_module("cinderella.modules." + module_name)
